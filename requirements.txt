@@ -1,3 +1,5 @@
-openslide-python==0.5.1
-argparse==0.3.7
-Pillow==2.3.0
+openslide-tools
+numpy==1.18.5
+scikit-image
+matplotlib
+openslide-python
