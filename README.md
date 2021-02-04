@@ -13,6 +13,9 @@ Repository contains implementation of bgsa-ndpi with primitive User Interface an
 Original implementation is an analyser of bgsa using 2 stains for LB / LT recognition
 
 ### Examples
+Test image
 ![](gland_86_2.jpg)
+Brown mask
 ![](gland_86_2.jpg_brown.png)
+Red mask
 ![](gland_86_2.jpg_red.png)
