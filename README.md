@@ -12,6 +12,11 @@ Repository contains implementation of bgsa-ndpi with primitive User Interface an
 
 Original implementation is an analyser of bgsa using 2 stains for LB / LT recognition
 
+
+Method described in:
+
+Costa, S., Schutz, S., Cornec, D. et al. B-cell and T-cell quantification in minor salivary glands in primary Sjögren’s syndrome: development and validation of a pixel-based digital procedure. Arthritis Res Ther 18, 21 (2016). https://doi.org/10.1186/s13075-016-0924-2
+
 ### Examples
 Test image
 ![](gland_86_2.jpg)
