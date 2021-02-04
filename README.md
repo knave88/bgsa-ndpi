@@ -1,6 +1,18 @@
-bgsa-ndpi
-=========
+# bgsa 
+Python3.X implementation of bgsa-ndpi method.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/bgsa-ndpi/HEAD?filepath=bgsa_pseudoGUI.ipynb)
+Adapted code from https://github.com/dridk/bgsa-ndpi.
 
-ndpi analyser of bgsa using 2 stains for LB / LT recognition
+To run script: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/bgsa-ndpi/HEAD?filepath=bgsa_pseudoGUI.ipynb)
+
+[Notebook](https://github.com/knave88/bgsa-ndpi/blob/master/bgsa_lr.ipynb) has more details on usage and code to process images and WSI.
+
+### Description
+Repository contains implementation of bgsa-ndpi with primitive User Interface and it's Binder-friendly.
+
+Original implementation is an analyser of bgsa using 2 stains for LB / LT recognition
+
+### Examples
+![](gland_86_2.jpg)
+![](gland_86_2.jpg_brown.png)
+![](gland_86_2.jpg_red.png)
